@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=Log.i(wisemuji%2C%20profile)&fontSize=70&animation=twinkling)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Log.i(wisemuji%2C%20profile)&fontSize=70&animation=twinkling)
 <!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=wisemuji&fontAlign=70&rotate=13&fontAlignY=25&animation=twinkling) -->
 
 <p align="center">
