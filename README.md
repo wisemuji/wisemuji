@@ -11,7 +11,7 @@
   💡 &nbsp;Love to learn <strong>anything</strong>! I'm a fast learner. 🕶 ✨ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wisemuji&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wisemuji&count_private=true&theme=buefy&hide=contribs,stars&custom_title=My+Github+Stats"/>
 
 <h4 align="left">🔭&nbsp;&nbsp;Currently working with...</h4>
 <p align="left">
