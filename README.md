@@ -6,9 +6,9 @@
 </h3>
 </p>
 <p  align="center">
-  💼 &nbsp;I work for <strong><a href="https://github.com/spoqa">@spoqa</a></strong> as a Full-stack Dev.(focusing on <strong>Android</strong>)<br>
-  📖 &nbsp;Love reading books for programmers. <a href="https://github.com/Coveong/reading-books-for-programmers">Check it out!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  💡 &nbsp;Love to learn <strong>anything</strong>! I'm a fast learner. 🕶 ✨ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  💼 &nbsp;I work for <strong><a href="https://github.com/spoqa">@riiid</a></strong> as an <strong>Android</strong> Dev.(interested in <strong>Backend</strong> too 👀)<br>
+  📖 &nbsp;Love reading books for programmers. <a href="https://github.com/Coveong/reading-books-for-programmers">Check it out!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  💡 &nbsp;Love to learn <strong>anything</strong>! I'm a fast learner. 🕶 ✨ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wisemuji&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
