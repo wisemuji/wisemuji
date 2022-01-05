@@ -28,7 +28,6 @@
 <h4 align="left">🏃‍♀️&nbsp;Studying...</h4> 
 <p align="left">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Clean Architecture-F0E7D6?style=flat-square"/></a>&nbsp 
 </p>
 
 <hr />
