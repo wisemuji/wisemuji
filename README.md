@@ -6,13 +6,13 @@
 </h3>
 </p>
 <p align="center">
-  💼 &nbsp;I work for <strong><a href="https://github.com/woowabros">@woowabros</a></strong> as an <strong>Android</strong> Dev/Educator.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  📖 &nbsp;Love reading books for programmers. <a href="https://github.com/Coveong/reading-books-for-programmers">Check it out!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  💡 &nbsp;Love to learn <strong>anything</strong>! I'm a fast learner. 🕶 ✨ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  💼 &nbsp;I work for <strong><a href="https://github.com/woowabros">@woowabros</a></strong> as an <strong>Android</strong> Dev/Educator.<br>
+  📝 &nbsp;I'm also a reviewer of the <strong><a href="https://edu.nextstep.camp/c/Z9QeJlCi/">Kotlin course</a></strong> at <strong><a href="https://github.com/woowabros">@next-step</a></strong><br>
+  📖 &nbsp;Love reading books for programmers. <strong><a href="https://github.com/Coveong/reading-books-for-programmers">Check it out!</a></strong><br>
 </p>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wisemuji&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wisemuji&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
 </p>
 <hr />
 <h4 align="center">Feel free to contact me! 🤙 </h4> 
