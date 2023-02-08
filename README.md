@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   💼 &nbsp;I work for <strong><a href="https://github.com/woowabros">@woowabros</a></strong> as an <strong>Android</strong> Dev/Educator.<br>
-  📝 &nbsp;I'm also a reviewer of the <strong><a href="https://edu.nextstep.camp/c/Z9QeJlCi/">Kotlin course</a></strong> at <strong><a href="https://github.com/woowabros">@next-step</a></strong>.<br>
+  📝 &nbsp;I'm also a reviewer of the <strong>Kotlin/Android course</strong> at <strong><a href="https://github.com/woowabros">@next-step</a></strong>.<br>
   📖 &nbsp;Love reading books for programmers. <strong><a href="https://github.com/Coveong/reading-books-for-programmers">Check it out!</a></strong><br>
 </p>
 <br>
