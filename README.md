@@ -6,10 +6,10 @@
 </h3>
 </p>
 <p align="center">
-  💼 &nbsp;Android Dev/Educator at <a href="https://www.woowahan.com/en/company">Woowa Bros.</a><br>
-  📝 &nbsp;Educator/Code reviewer of <a href="https://edu.nextstep.camp">NEXTSTEP</a><br>
-  🎤 &nbsp;Organizing <a href="https://gdg.community.dev/gdg-korea-android">GDG Korea Android</a>, <a href="https://github.com/droidknights">DroidKinghts</a><br>
-  📖 &nbsp;Love <a href="https://github.com/Coveong/reading-books-for-programmers">reading books for programmers</a><br>
+  💼 &nbsp;Android Dev/Educator at <strong><a href="https://www.woowahan.com/en/company">Woowa Bros.</a></strong><br>
+  📝 &nbsp;Educator/Code reviewer of <strong><a href="https://edu.nextstep.camp">NEXTSTEP</a></strong>.<br>
+  🎤 &nbsp;Organizing <strong><a href="https://gdg.community.dev/gdg-korea-android">GDG Korea Android</a></strong>, <strong><a href="https://github.com/droidknights">DroidKinghts</a></strong>.<br>
+  📖 &nbsp;Love <strong><a href="https://github.com/Coveong/reading-books-for-programmers">reading books for programmers</a></strong>.<br>
 </p>
 <hr />
 <h4 align="center">How to reach me 🤙 </h4> 
