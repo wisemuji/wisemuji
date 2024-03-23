@@ -6,12 +6,13 @@
 </h3>
 </p>
 <p align="center">
-  💼 &nbsp;I work for <strong><a href="https://github.com/woowabros">@woowabros</a></strong> as an <strong>Android</strong> Dev/Educator.<br>
-  📝 &nbsp;I'm also a reviewer of the <strong>Kotlin/Android course</strong> at <strong><a href="https://github.com/next-step">@next-step</a></strong>.<br>
-  📖 &nbsp;Love reading books for programmers. <strong><a href="https://github.com/Coveong/reading-books-for-programmers">Check it out!</a></strong><br>
+  💼 &nbsp;Android Dev/Educator at <a href="https://www.woowahan.com/en/company">Woowa Bros.</a><br>
+  📝 &nbsp;Educator/Code reviewer of <a href="https://edu.nextstep.camp">NEXTSTEP</a><br>
+  🎤 &nbsp;Organizing <a href="https://gdg.community.dev/gdg-korea-android">GDG Korea Android</a>, <a href="https://github.com/droidknights">DroidKinghts</a><br>
+  📖 &nbsp;Love <a href="https://github.com/Coveong/reading-books-for-programmers">reading books for programmers</a><br>
 </p>
 <hr />
-<h4 align="center">Feel free to contact me! 🤙 </h4> 
+<h4 align="center">How to reach me 🤙 </h4> 
 <p align="center">
   <a href="https://medium.com/@wisemuji"><img src="https://img.shields.io/badge/Medium-12100E?style=social&logo=Medium&logoColor=000000"/></a>&nbsp 
   <a href="mailto:wisemuji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>
