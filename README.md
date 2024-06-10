@@ -18,7 +18,9 @@
   <a href="mailto:wisemuji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>
 </a>&nbsp 
   <a href="https://www.linkedin.com/in/wisemuji"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=social&logo=linkedin&logoColor=0072b1"/></a>&nbsp
+  <a href="https://speakerdeck.com/wisemuji"><img src="https://img.shields.io/badge/SpeakerDeck-009287?style=social&logo=speakerdeck"/></a>&nbsp
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwisemuji&count_bg=%23CDCDCD&title_bg=%23CDCDCD&icon=&title=hits&edge_flat=false"/>
+  
 </p>
 <p align="center">
   
