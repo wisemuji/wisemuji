@@ -14,12 +14,12 @@
 <hr />
 <h4 align="center">How to reach me 🤙 </h4> 
 <p align="center">
-  <a href="https://medium.com/@wisemuji"><img src="https://img.shields.io/badge/Medium-12100E?style=social&logo=Medium&logoColor=000000"/></a>&nbsp 
-  <a href="mailto:wisemuji@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>
+  <a href="https://medium.com/@wisemuji"><img src="https://img.shields.io/badge/Medium-fff?logo=Medium&logoColor=12100E"/></a>&nbsp 
+  <a href="mailto:wisemuji@gmail.com"><img src="https://img.shields.io/badge/Gmail-fff?logo=Gmail"/></a>
 </a>&nbsp 
-  <a href="https://www.linkedin.com/in/wisemuji"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=social&logo=linkedin&logoColor=0072b1"/></a>&nbsp
-  <a href="https://speakerdeck.com/wisemuji"><img src="https://img.shields.io/badge/SpeakerDeck-009287?style=social&logo=speakerdeck"/></a>&nbsp
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwisemuji&count_bg=%23CDCDCD&title_bg=%23CDCDCD&icon=&title=hits&edge_flat=false"/>
+  <a href="https://www.linkedin.com/in/wisemuji"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&nbsp
+  <a href="https://speakerdeck.com/wisemuji"><img src="https://img.shields.io/badge/SpeakerDeck-fff?logo=speakerdeck&logoColor=009287"/></a>&nbsp
+  <!-- !<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwisemuji&count_bg=%23CDCDCD&title_bg=%23CDCDCD&icon=&title=hits&edge_flat=false"/> -->
   
 </p>
 <p align="center">
