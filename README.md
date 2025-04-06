@@ -1,18 +1,12 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Log.i(wisemuji%2C%20profile)&fontSize=70&animation=twinkling)
-<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=wisemuji&fontAlign=70&rotate=13&fontAlignY=25&animation=twinkling) -->
-
-<p align="center">
-  <h3 align="center">Hey there 👋&nbsp;&nbsp;&nbsp;
-</h3>
-</p>
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=Log.i(wisemuji%2C%20profile)&fontSize=70&animation=twinkling)
+<h3 align="center">Hey there 👋&nbsp;&nbsp;&nbsp;</h3>
 <p align="center">
   💼 &nbsp;Android Dev/Educator at <strong><a href="https://www.woowahan.com/en/company">Woowa Bros.</a></strong><br>
   📝 &nbsp;Educator/Code reviewer of <strong><a href="https://edu.nextstep.camp">NEXTSTEP</a></strong>.<br>
   🎤 &nbsp;Organizing <strong><a href="https://gdg.community.dev/gdg-korea-android">GDG Korea Android</a></strong>, <strong><a href="https://github.com/droidknights">DroidKinghts</a></strong>.<br>
   📖 &nbsp;Love <strong><a href="https://github.com/Coveong/reading-books-for-programmers">reading books for programmers</a></strong>.<br>
 </p>
-<hr />
-<h4 align="center">How to reach me 🤙 </h4> 
+<hr/>
 <p align="center">
   <a href="https://medium.com/@wisemuji"><img src="https://img.shields.io/badge/Medium-fff?logo=Medium&logoColor=12100E"/></a>&nbsp 
   <a href="mailto:wisemuji@gmail.com"><img src="https://img.shields.io/badge/Gmail-fff?logo=Gmail"/></a>
