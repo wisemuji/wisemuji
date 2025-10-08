@@ -22,6 +22,7 @@
 <p>
   <img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-671/badge"><br>
   <a href="https://medium.com/proandroiddev/understanding-kotlin-generics-through-a-fantasy-story-6143b49e0c4d">Kotlin Generics Explained: Once Upon a Type…</a><br>
+<a href="https://proandroiddev.com/why-your-compose-multiplatform-app-still-needs-native-code-a7e56bffeaea">Why Your Compose Multiplatform App Still Needs Native Code</a><br>
   <a href="https://medium.com/proandroiddev/best-practices-for-composition-patterns-in-jetpack-compose-39676ffcc933">Best Practices for Composition Patterns in Jetpack Compose</a><br>
   <a href="https://medium.com/proandroiddev/build-a-real-time-zoom-clone-with-jetpack-compose-a18047101496">Build a Real-Time Zoom Clone with Jetpack Compose</a><br>
 </p>
